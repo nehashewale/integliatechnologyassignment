@@ -1,0 +1,17 @@
+aniso8601==9.0.1
+asgiref==3.4.1
+attrs==21.2.0
+click==8.0.1
+Django==3.2.7
+Flask==2.0.1
+Flask-RESTful==0.3.9
+itsdangerous==2.0.1
+Jinja2==3.0.1
+jsonschema==3.2.0
+MarkupSafe==2.0.1
+mysqlclient==2.0.3
+pyrsistent==0.18.0
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.1
+Werkzeug==2.0.1
